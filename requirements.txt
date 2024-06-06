@@ -1,4 +1,5 @@
 torch
 transformers
+transformers[sentencepiece]
 flask
 streamlit
